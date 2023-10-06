@@ -1,5 +1,6 @@
 namespace Laboratiorio_2
 {
+    using System.Globalization;
     internal static class Program
     {
         /// <summary>
